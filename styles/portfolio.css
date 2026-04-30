@@ -172,3 +172,59 @@ header{
   color: #627382;
   line-height: 20px;
 }
+#second-brain{
+  max-width: 1360px;
+  margin: 120px;
+  display: flex;
+  gap: 60px;
+}
+#second-brain .image-container{
+  width: 600px;
+  height: 600px;
+}
+
+
+.heading h4{
+  padding-top: 102px;
+  font-size: 16px;
+  color: #30B868;
+}
+.heading h1{
+  max-width: 700px;
+  font-size: 48px;
+  font-weight: bold;
+  color: #001931;
+  line-height: 20px;
+  
+}
+.heading p{
+  font-size: 16px;
+  color:#627382;
+  
+}
+#list ul{
+  padding-bottom: 102px;
+}
+
+
+#list ul li{
+  font-size: 16px;
+  font-weight: 400;
+  display:flex;
+  width: 428px;  
+  gap: 6px;
+  align-items:center;
+  line-height: 0px; 
+  padding-right: 272px ; 
+  
+  
+}
+
+#list ul li img{
+  width: 20px;
+  height: 20px;
+  margin-left: 0px;
+ 
+
+}
+
